@@ -8,7 +8,7 @@ The application automatically classifies package images as **Damaged** or **Inta
 
 ## 🚀 Live Demo
 
-🌐 **Streamlit App** - https://visiondna-ai-package-inspector.streamlit.app/
+🌐 **Streamlit App Link** - https://visiondna-ai-package-inspector.streamlit.app/
 
 
 ## 📷 Project Preview
