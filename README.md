@@ -13,7 +13,8 @@ The application automatically classifies package images as **Damaged** or **Inta
 
 ## 📷 Project Preview
 
-> *(Add screenshots after deployment)*
+<img width="1901" height="913" alt="Screenshot 2026-07-12 185812" src="https://github.com/user-attachments/assets/bb659ed6-f81b-4134-b009-29dd8740ed24" />
+
 
 - Home Page
 - Upload Image
@@ -30,11 +31,15 @@ Consumers often cannot identify whether a product has been previously opened, re
 
 Currently, product quality inspection is mainly performed manually, which is:
 
-Time-consuming
-Expensive
-Inconsistent
-Dependent on human expertise
-Difficult to scale for large warehouses and manufacturing environments
+✅Time-consuming
+
+✅Expensive
+
+✅Inconsistent
+
+✅Dependent on human expertise
+
+✅Difficult to scale for large warehouses and manufacturing environments
 
 Therefore, an automated AI-based inspection system is required to detect damaged or tampered packages accurately and efficiently using Computer Vision technology.
 
