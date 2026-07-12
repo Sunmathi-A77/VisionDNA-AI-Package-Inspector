@@ -10,9 +10,6 @@ The application automatically classifies package images as **Damaged** or **Inta
 
 🌐 **Streamlit App**
 
-YOUR_STREAMLIT_APP_URL
-
----
 
 ## 📷 Project Preview
 
