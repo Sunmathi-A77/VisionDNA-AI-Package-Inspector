@@ -24,9 +24,19 @@ The application automatically classifies package images as **Damaged** or **Inta
 
 # 📌 Problem Statement
 
-Manual package inspection is time-consuming, inconsistent, and prone to human error.
+In today's supply chain and e-commerce ecosystem, millions of packaged products are transported through multiple stages before reaching customers. During handling, storage, or delivery, packages may experience damage, broken seals, or unauthorized tampering.
 
-Industries require an automated solution capable of detecting damaged packages accurately using Computer Vision.
+Consumers often cannot identify whether a product has been previously opened, resealed, or damaged. This creates serious concerns related to product safety, customer trust, financial losses, and brand reputation.
+
+Currently, product quality inspection is mainly performed manually, which is:
+
+Time-consuming
+Expensive
+Inconsistent
+Dependent on human expertise
+Difficult to scale for large warehouses and manufacturing environments
+
+Therefore, an automated AI-based inspection system is required to detect damaged or tampered packages accurately and efficiently using Computer Vision technology.
 
 ---
 
