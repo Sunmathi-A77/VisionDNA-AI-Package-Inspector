@@ -1,9 +1,9 @@
 streamlit
 tensorflow
 numpy
-Pillow
-opencv-python
+pillow
+opencv-python-headless
 pandas
-matplotlib
 scikit-learn
+matplotlib
 reportlab
